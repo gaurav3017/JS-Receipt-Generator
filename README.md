@@ -1,5 +1,5 @@
 # JS-Receipt-Generator
-[Object oriented JavaScript, HTML, Bootstrap css] Simple Receipt generator app in OO JS.
+[Object oriented JavaScript, HTML, Bootstrap css] Simple Receipt generator app using Object oriented JS.
 
 ![image](https://user-images.githubusercontent.com/9462473/57748789-fe2f7200-76f8-11e9-927d-0cd1d8a3c959.png)
 
